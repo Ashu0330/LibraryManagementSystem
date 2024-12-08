@@ -1,0 +1,12 @@
+C:\Users\himan\source\repos\LibraryProject\LibraryManagement\LibraryManagement.Presentation\bin\Debug\net8.0\LibraryManagement.Presentation.deps.json
+C:\Users\himan\source\repos\LibraryProject\LibraryManagement\LibraryManagement.Presentation\bin\Debug\net8.0\LibraryManagement.Presentation.dll
+C:\Users\himan\source\repos\LibraryProject\LibraryManagement\LibraryManagement.Presentation\bin\Debug\net8.0\LibraryManagement.Presentation.pdb
+C:\Users\himan\source\repos\LibraryProject\LibraryManagement\LibraryManagement.Presentation\obj\Debug\net8.0\LibraryManagement.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\himan\source\repos\LibraryProject\LibraryManagement\LibraryManagement.Presentation\obj\Debug\net8.0\LibraryManagement.Presentation.AssemblyInfoInputs.cache
+C:\Users\himan\source\repos\LibraryProject\LibraryManagement\LibraryManagement.Presentation\obj\Debug\net8.0\LibraryManagement.Presentation.AssemblyInfo.cs
+C:\Users\himan\source\repos\LibraryProject\LibraryManagement\LibraryManagement.Presentation\obj\Debug\net8.0\LibraryManagement.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\himan\source\repos\LibraryProject\LibraryManagement\LibraryManagement.Presentation\obj\Debug\net8.0\LibraryManagement.Presentation.sourcelink.json
+C:\Users\himan\source\repos\LibraryProject\LibraryManagement\LibraryManagement.Presentation\obj\Debug\net8.0\LibraryManagement.Presentation.dll
+C:\Users\himan\source\repos\LibraryProject\LibraryManagement\LibraryManagement.Presentation\obj\Debug\net8.0\refint\LibraryManagement.Presentation.dll
+C:\Users\himan\source\repos\LibraryProject\LibraryManagement\LibraryManagement.Presentation\obj\Debug\net8.0\LibraryManagement.Presentation.pdb
+C:\Users\himan\source\repos\LibraryProject\LibraryManagement\LibraryManagement.Presentation\obj\Debug\net8.0\ref\LibraryManagement.Presentation.dll
