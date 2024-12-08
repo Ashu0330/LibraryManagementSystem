@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryManagement.Api", "LibraryManagement.Api\LibraryManagement.Api.csproj", "{9DE6B8B1-AFA0-418A-91C4-E2198A688648}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryManagement.Api", "LibraryManagement.Api\LibraryManagement.Api.csproj", "{9DE6B8B1-AFA0-418A-91C4-E2198A688648}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryManagement.DAL", "LibraryManagement.DAL\LibraryManagement.DAL.csproj", "{CF1D3339-B6A1-47E3-84C1-DDFDEEE8B372}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryManagement.DAL", "LibraryManagement.DAL\LibraryManagement.DAL.csproj", "{CF1D3339-B6A1-47E3-84C1-DDFDEEE8B372}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryManagement.Services", "LibraryManagement.Services\LibraryManagement.Services.csproj", "{D6A6E8BD-14D8-473D-B613-F213FB373BC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryManagement.Services", "LibraryManagement.Services\LibraryManagement.Services.csproj", "{D6A6E8BD-14D8-473D-B613-F213FB373BC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryManagement.Infrastructure", "LibraryManagement.Infrastructure\LibraryManagement.Infrastructure.csproj", "{3B4AC1D3-BBB9-46E4-8E68-E9CDD82020CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryManagement.Infrastructure", "LibraryManagement.Infrastructure\LibraryManagement.Infrastructure.csproj", "{3B4AC1D3-BBB9-46E4-8E68-E9CDD82020CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryManagement.Presentation", "LibraryManagement.Presentation\LibraryManagement.Presentation.csproj", "{29140646-C6EF-4175-A21C-52C9E5B989AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryManagement.Presentation", "LibraryManagement.Presentation\LibraryManagement.Presentation.csproj", "{29140646-C6EF-4175-A21C-52C9E5B989AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryManagement.Domain", "LibraryManagement.Domain\LibraryManagement.Domain.csproj", "{0E1722E6-5A7A-4458-B1F9-DE95911CB50A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryManagement.Domain", "LibraryManagement.Domain\LibraryManagement.Domain.csproj", "{0E1722E6-5A7A-4458-B1F9-DE95911CB50A}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "LibraryManagement.Database", "LibraryManagement.Database\LibraryManagement.Database.sqlproj", "{D8A11EF6-A733-45A3-837F-8156A0FC9154}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,12 @@ Global
 		{0E1722E6-5A7A-4458-B1F9-DE95911CB50A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E1722E6-5A7A-4458-B1F9-DE95911CB50A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E1722E6-5A7A-4458-B1F9-DE95911CB50A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8A11EF6-A733-45A3-837F-8156A0FC9154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A11EF6-A733-45A3-837F-8156A0FC9154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A11EF6-A733-45A3-837F-8156A0FC9154}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D8A11EF6-A733-45A3-837F-8156A0FC9154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A11EF6-A733-45A3-837F-8156A0FC9154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8A11EF6-A733-45A3-837F-8156A0FC9154}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
