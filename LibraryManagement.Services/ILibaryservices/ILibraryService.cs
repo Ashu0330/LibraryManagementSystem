@@ -11,5 +11,7 @@ namespace LibraryManagement.Services.ILibaryservices
     public interface ILibraryService
     {
         public Task<ApiResponse<IEnumerable<BooksModel>>> GetAllBooks();
+        public Task<ApiResponse<bool>> InsertIntoBooks(BooksModel model);
+
     }
 }

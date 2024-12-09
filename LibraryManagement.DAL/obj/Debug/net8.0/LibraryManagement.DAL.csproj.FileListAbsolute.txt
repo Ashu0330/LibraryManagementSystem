@@ -11,3 +11,16 @@ C:\Users\himan\source\repos\LibraryProject\LibraryManagement\LibraryManagement.D
 C:\Users\himan\source\repos\LibraryProject\LibraryManagement\LibraryManagement.DAL\obj\Debug\net8.0\refint\LibraryManagement.DAL.dll
 C:\Users\himan\source\repos\LibraryProject\LibraryManagement\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.pdb
 C:\Users\himan\source\repos\LibraryProject\LibraryManagement\LibraryManagement.DAL\obj\Debug\net8.0\ref\LibraryManagement.DAL.dll
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.DAL\bin\Debug\net8.0\LibraryManagement.DAL.deps.json
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.DAL\bin\Debug\net8.0\LibraryManagement.DAL.dll
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.DAL\bin\Debug\net8.0\LibraryManagement.DAL.pdb
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.csproj.AssemblyReference.cache
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.AssemblyInfoInputs.cache
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.AssemblyInfo.cs
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.csproj.CoreCompileInputs.cache
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.sourcelink.json
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.dll
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.DAL\obj\Debug\net8.0\refint\LibraryManagement.DAL.dll
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.pdb
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.DAL\obj\Debug\net8.0\ref\LibraryManagement.DAL.dll

@@ -10,3 +10,15 @@ C:\Users\himan\source\repos\LibraryProject\LibraryManagement\LibraryManagement.D
 C:\Users\himan\source\repos\LibraryProject\LibraryManagement\LibraryManagement.Domain\obj\Debug\net8.0\refint\LibraryManagement.Domain.dll
 C:\Users\himan\source\repos\LibraryProject\LibraryManagement\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.pdb
 C:\Users\himan\source\repos\LibraryProject\LibraryManagement\LibraryManagement.Domain\obj\Debug\net8.0\ref\LibraryManagement.Domain.dll
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.Domain\bin\Debug\net8.0\LibraryManagement.Domain.deps.json
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.Domain\bin\Debug\net8.0\LibraryManagement.Domain.dll
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.Domain\bin\Debug\net8.0\LibraryManagement.Domain.pdb
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.AssemblyInfoInputs.cache
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.AssemblyInfo.cs
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.csproj.CoreCompileInputs.cache
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.sourcelink.json
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.dll
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.Domain\obj\Debug\net8.0\refint\LibraryManagement.Domain.dll
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.pdb
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.Domain\obj\Debug\net8.0\ref\LibraryManagement.Domain.dll

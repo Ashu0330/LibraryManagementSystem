@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace LibraryManagement.Api.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[Action]")]
     [ApiController]
     public class LibraryController : ControllerBase
     {
@@ -20,6 +20,11 @@ namespace LibraryManagement.Api.Controllers
         public async Task<ApiResponse<IEnumerable<BooksModel>>> GetAllBooks()
         {
             return await libraryService.GetAllBooks();
+        }
+        [HttpPost]
+        public async Task<ApiResponse<bool>> InsertIntoBooks(BooksModel model)
+        {
+            return await this.libraryService.InsertIntoBooks(model);
         }
 
     }

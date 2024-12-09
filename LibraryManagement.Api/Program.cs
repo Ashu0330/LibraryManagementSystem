@@ -16,6 +16,13 @@ builder.Services.AddScoped(typeof(IConnectionService), x => new ConnectionServic
 builder.Services.AddScoped(typeof(IRepositoryService<>), typeof(RepositoryService<>));
 builder.Services.AddScoped<IFactoryService, FactoryService>();
 builder.Services.AddScoped<ILibraryService, LibraryService>();
+builder.Services.AddCors(policies =>
+{
+    policies.AddPolicy("Main", policy =>
+    {
+        policy.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod();
+    });
+});
 
 var app = builder.Build();
 
@@ -27,6 +34,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseCors("Main");
 
 app.UseAuthorization();
 

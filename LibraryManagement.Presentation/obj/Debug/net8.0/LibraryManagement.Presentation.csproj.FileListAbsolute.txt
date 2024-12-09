@@ -10,3 +10,15 @@ C:\Users\himan\source\repos\LibraryProject\LibraryManagement\LibraryManagement.P
 C:\Users\himan\source\repos\LibraryProject\LibraryManagement\LibraryManagement.Presentation\obj\Debug\net8.0\refint\LibraryManagement.Presentation.dll
 C:\Users\himan\source\repos\LibraryProject\LibraryManagement\LibraryManagement.Presentation\obj\Debug\net8.0\LibraryManagement.Presentation.pdb
 C:\Users\himan\source\repos\LibraryProject\LibraryManagement\LibraryManagement.Presentation\obj\Debug\net8.0\ref\LibraryManagement.Presentation.dll
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.Presentation\bin\Debug\net8.0\LibraryManagement.Presentation.deps.json
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.Presentation\bin\Debug\net8.0\LibraryManagement.Presentation.dll
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.Presentation\bin\Debug\net8.0\LibraryManagement.Presentation.pdb
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.Presentation\obj\Debug\net8.0\LibraryManagement.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.Presentation\obj\Debug\net8.0\LibraryManagement.Presentation.AssemblyInfoInputs.cache
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.Presentation\obj\Debug\net8.0\LibraryManagement.Presentation.AssemblyInfo.cs
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.Presentation\obj\Debug\net8.0\LibraryManagement.Presentation.csproj.CoreCompileInputs.cache
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.Presentation\obj\Debug\net8.0\LibraryManagement.Presentation.sourcelink.json
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.Presentation\obj\Debug\net8.0\LibraryManagement.Presentation.dll
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.Presentation\obj\Debug\net8.0\refint\LibraryManagement.Presentation.dll
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.Presentation\obj\Debug\net8.0\LibraryManagement.Presentation.pdb
+E:\IT\LibraryManagement\LibraryManagementSystem\LibraryManagement.Presentation\obj\Debug\net8.0\ref\LibraryManagement.Presentation.dll

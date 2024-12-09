@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\himan\\source\\repos\\LibraryProject\\LibraryManagement\\LibraryManagement.Presentation\\LibraryManagement.Presentation.csproj": {}
+    "E:\\IT\\LibraryManagement\\LibraryManagementSystem\\LibraryManagement.Presentation\\LibraryManagement.Presentation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\himan\\source\\repos\\LibraryProject\\LibraryManagement\\LibraryManagement.Presentation\\LibraryManagement.Presentation.csproj": {
+    "E:\\IT\\LibraryManagement\\LibraryManagementSystem\\LibraryManagement.Presentation\\LibraryManagement.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\himan\\source\\repos\\LibraryProject\\LibraryManagement\\LibraryManagement.Presentation\\LibraryManagement.Presentation.csproj",
+        "projectUniqueName": "E:\\IT\\LibraryManagement\\LibraryManagementSystem\\LibraryManagement.Presentation\\LibraryManagement.Presentation.csproj",
         "projectName": "LibraryManagement.Presentation",
-        "projectPath": "C:\\Users\\himan\\source\\repos\\LibraryProject\\LibraryManagement\\LibraryManagement.Presentation\\LibraryManagement.Presentation.csproj",
-        "packagesPath": "C:\\Users\\himan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\himan\\source\\repos\\LibraryProject\\LibraryManagement\\LibraryManagement.Presentation\\obj\\",
+        "projectPath": "E:\\IT\\LibraryManagement\\LibraryManagementSystem\\LibraryManagement.Presentation\\LibraryManagement.Presentation.csproj",
+        "packagesPath": "C:\\Users\\Jai\\.nuget\\packages\\",
+        "outputPath": "E:\\IT\\LibraryManagement\\LibraryManagementSystem\\LibraryManagement.Presentation\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\himan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,8 +42,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -61,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
